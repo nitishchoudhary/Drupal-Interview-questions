@@ -2,23 +2,64 @@ Drupal 8 Interview Questions for Experience Developer:
 
 Nitish kumar: 
 
-  1. Drupal custom module & custom theme complete
-  2. Config management full (full import and export, single config, split config)
-  3. services, REST API
-  4. scenario based questions for services - how to get data on page using services, controller
-  5. what is the use of src folder in module
-  6. composer and drush
-  7. custom drush commands
-  8. docker
-  9. migration from d7 to d8
-  10. guzzle in d8
-  11. custom block using modules
-  12. use of class which used in module
-  13. caching
-  14. dependancies in custom modules
-  15. dependancies injection
-  16. git command: pull, push, use of word origin, what is upstream, what is origin, why we fork, cherry-pick
-  17. PHP based: oops, functions of array, string, core php functions
-  18.
+  1. How to create the custom module & custom theme 
+  2. Routing in Drupal 8
+  3. Config management full (full import and export, single config, split config)
+  4. Services, REST API, Micro Services
+  5. how to consume service in Drupal
+  6. What is the use of src folder in module/Structure of Drupal module folder
+  7. Drush and Composer / Current Version / Commands mostly used / How to Create Custom command in Drush
+  8. Difference between D7 & D8
+  9. CI/CD
+  10. Docker/Vagrant which one you are using/ How Docker/Vagrant work
+  11. Acquia Cloud / Acquia BLT
+  12. Migration from d7 to d8 / Migration API
+  13. Guzzle in d8 / How to call service using Guzzle
+  14. How to Create Custom block using modules
+  15. EventsSubscriber/EventLisner/Dispatcher in Drupal 8
+  16. Type of Caching / Cache context/Cache Tag/ Render Array in Drupal 8
+  17. How to declare Dependancies in custom modules
+  18. Dependancies injection
+  19. Design Pattern in Php/ SingleTon Design Pattern
+  20. Git command: pull, push, use of word origin, Upstream, what is origin, why we fork, cherry-pick, how to delete old branch , Git stash, git pop
+  21. PHP based: oops, functions of array, string, core php functions
+  22. Symfony Component in Drupal / HttpFoundation / HttpKernel / MVC Structure 
+  23. Twig / Create custom Twig Extentions
+  24. YAML / Config file / Why we used ymal
+  25. Joins in Mysql
+  26. Traits/ How to use traits 
+  27. namespace/final keyword
+  28. Memcache/Varnish/Redis/CDN/Performance Tuning
+  29. PDO in D8/db_merge/Abstraction layer
+  30. prototype/clouser in Javascript
+  31. Drupal Behaviour in Javascript
+  32. How to add Js/Css file in Drupal module 
+  33. Hooks/Preprocess/views_pre_render/hook_view_data/hook_view_query_alter
+  34. What do you understand by Agile / How agile system work
+  35. Apache Solr / Acquia Search / Elastic Search 
+  36. Access Modefier / Public/Private/Protected
+  37. Configurations API/Plugin in D8
+  38. MultiSite/MultiLingual 
+  39. Entity in D8 / Entity API
+  40. Understanding psr-4 name spacing
+  41. Drupal console/ Symfony Console / Migration of database in symfony using command line
+  42.
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
  
 
