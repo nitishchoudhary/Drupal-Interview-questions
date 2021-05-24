@@ -52,6 +52,7 @@ Nitish kumar:
   48. Name of module to improve the SEO of Application
   49. XDebug/PhpCodeSniffer/Peer code review
   50. name of some Contrib module - CTools, Views, Paragraphs, Panels, Layout Builder, Pathauto, feature, Rules
+  51. Number of argumnets in $.ajax - {url,type,data,dataType,cache} 
   
   
 I hope it will help you.
