@@ -5,7 +5,7 @@ Nitish kumar:
   1. How to create the custom module & custom theme 
   2. Routing in Drupal 8
   3. Config management full (full import and export, single config, split config)
-  4. Services, REST API, Micro Services
+  4. Services, REST API, Micro Services in D8
   5. how to consume service in Drupal
   6. What is the use of src folder in module/Structure of Drupal module folder
   7. Drush and Composer / Current Version / Commands mostly used / How to Create Custom command in Drush
